@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MinRange>0</MinRange>
+  <MaxRange>10</MaxRange>
+  <Adresses>
+    <!-- <string>127.0.0.1</string> -->
+    <!-- <string>192.168.12.1</string> -->
+	<string>192.168.3.2</string>
+  </Adresses>
+</Config>

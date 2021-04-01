@@ -1,0 +1,7 @@
+D:\Projects\UdpTestTask\Server\Client\Client\Client\bin\Debug\Client.exe.config
+D:\Projects\UdpTestTask\Server\Client\Client\Client\bin\Debug\Client.exe
+D:\Projects\UdpTestTask\Server\Client\Client\Client\bin\Debug\Client.pdb
+D:\Projects\UdpTestTask\Server\Client\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Projects\UdpTestTask\Server\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Projects\UdpTestTask\Server\Client\Client\Client\obj\Debug\Client.exe
+D:\Projects\UdpTestTask\Server\Client\Client\Client\obj\Debug\Client.pdb
